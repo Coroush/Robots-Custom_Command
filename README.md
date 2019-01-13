@@ -18,6 +18,7 @@ The following code converts material percentage values to the value of a group o
 
 ## Description:
 
+[Grasshopper Algorithm](./doc/definition.png)
 - Remaps 'Proportion' to result of 2 to power of 'Resolution'.
 - Finds the nearest integer number to previous values.
 - constructs custom command.
